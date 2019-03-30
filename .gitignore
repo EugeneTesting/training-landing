@@ -1,0 +1,11 @@
+# Сборка
+build
+
+# Пакеты
+nodu_modules
+
+# Ошибка
+npm-debug.log
+
+# Временные файлы
+.DS_Store
